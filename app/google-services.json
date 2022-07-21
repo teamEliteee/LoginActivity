@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587476397082",
+    "project_id": "loginapp-f80de",
+    "storage_bucket": "loginapp-f80de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587476397082:android:412c01fcb8050e5931b5a3",
+        "android_client_info": {
+          "package_name": "com.example.simpleloginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587476397082-it8k1f1k7r28nq3rea51m1rbjq7juoa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8VHsCP5kYerBKFfsVXKo2ewtxLz56cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587476397082-it8k1f1k7r28nq3rea51m1rbjq7juoa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
